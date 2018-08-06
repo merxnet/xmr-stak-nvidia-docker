@@ -1,0 +1,14 @@
+"gpu_threads_conf": [
+  // gpu: GeForce GTX 1080 Ti architecture: 61
+  // memory: 9309/11264 MiB
+  // smx: 28
+  {
+    "index": 0,
+    "threads": 128,
+    "blocks": 28,
+    "bfactor": 10,
+    "bsleep": 100,
+    "affine_to_cpu": false,
+    "sync_mode": 3
+  }
+]
