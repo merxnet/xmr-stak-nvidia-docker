@@ -9,6 +9,7 @@
     "bfactor": 10,
     "bsleep": 100,
     "affine_to_cpu": false,
-    "sync_mode": 3
+    "sync_mode": 3,
+    "mem_mode": 1
   }
 ]
